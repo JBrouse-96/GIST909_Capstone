@@ -280,7 +280,7 @@ class Tool:
 
         # Set the output coordinate system to the Maps if the User does not specify one in the tools ENV settings
         if arcpy.env.outputCoordinateSystem is None:
-            arcpy.env.outputCoordinateSystem = map.spatialReference.factoryCode #3857
+            arcpy.env.outputCoordinateSystem = map.spatialReference.factoryCode
             arcpy.AddMessage(f"Output Coordinate System auto set to {arcpy.env.outputCoordinateSystem.name}")
         else:
             arcpy.AddMessage(f"Output Coordinate System is set to {arcpy.env.outputCoordinateSystem.name}")
