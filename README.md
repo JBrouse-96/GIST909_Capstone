@@ -1,9 +1,9 @@
 # GIST909 Capstone repository
-Jonathan Brouse
 
 This repository serves as a place for GIS professionals to download the script tool for their own use.
 
 Abstract:
+
 Data collection is often the most time-consuming part of a GIS research project. For a
 viewshed analysis this involves identifying the coverage areas and selecting the exact grid
 squares required by the study area. The goal of this tool is to save the end-user time by
