@@ -1,6 +1,6 @@
 # GIST909 Capstone repository
 
-This repository serves as a place for GIS professionals to download the script tool for their own use.
+This repository serves as a place for GIS professionals to download the viewshed script tool for their own use.
 
 Abstract:
 
