@@ -13,7 +13,7 @@ class Toolbox:
     def __init__(self):
         """Define the toolbox (the name of the toolbox is the name of the
         .pyt file)."""
-        self.label = "Captsone Tool"
+        self.label = "Capstone Tool"
         self.alias = "BCIS_Customs"
 
         # List of tool classes associated with this toolbox
